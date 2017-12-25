@@ -4,7 +4,7 @@
 #
 
 TEXT="Enter your password or insert your YubiKey to unlock"
-LOCK=~/tools/lock.png
+LOCK=/tools/lock.png
 
 # Capture screen
 scrot /tmp/screen.png
