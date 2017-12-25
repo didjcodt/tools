@@ -16,3 +16,7 @@ lock.sh is a custom screenlocker. It needs:
 
 Fix for Dell Latitude laptop issue: the BIOS is buggy and does not enable the
 high speed clock when waking up after suspend...
+
+# gpg/
+
+GPG configuration files for yubikey GPG authentication.
